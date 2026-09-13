@@ -1,0 +1,5 @@
+# Fichiers objets
+*.o
+
+# Exécutable généré
+maze
